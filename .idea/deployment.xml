@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhoun@bioclient1.bio.ifi.lmu.de:12" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="10.162.163.34">
         <serverdata>
@@ -23,6 +23,14 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="zhoun@bioclient1.bio.ifi.lmu.de:12">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/z/zhoun/CATHpre" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
